@@ -1,2 +1,2 @@
 # pythonfiles
-python学习
+python学习，太难了
